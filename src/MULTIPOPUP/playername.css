@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Fontdiner+Swanky&display=swap');
+
+
+.namescreen2{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../assests/jungle-cartoon-background.jpg");
+
+    background-size: 100%;
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
+.inputdata{
+    width: 50%;
+    height: 50%;
+    background-color:gold;
+     
+    
+}
+.nputda{
+    margin-top: 3%;
+    border-radius: 10px;
+size: 20%;
+    border: none;
+}
+#sideimgsss2{
+    width: 30%;
+}
+
+.starter{
+    margin-top: 3%;
+    /* background-color: blue; */
+
+}
+#startimager{
+    width: 20%;
+}
+
+
+#startimager:hover{
+    width: 17%;
+
+}
+.nameplayer{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Fontdiner Swanky', cursive;
+    letter-spacing: 5px;
+    color:rgb(86, 30, 27);
+}
+.statermain{
+    /* width: 50%; */
+    background-color: rgba(83, 83, 83, 0.308);
+    border-radius: 10%;
+
+}
+
+
+.hiddenscreen2{
+    display: none;
+}

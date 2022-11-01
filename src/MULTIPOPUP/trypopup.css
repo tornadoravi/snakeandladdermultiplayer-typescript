@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Emilys+Candy&family=Fuzzy+Bubbles&display=swap');
+
+
+.popupscreen{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../assests/jungle-cartoon-background.jpg');
+    background-size: 100%;
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
+.inputdata{
+    width: 50%;
+    height: 50%;
+    background-color:gold;
+     
+    
+}
+.nputda{
+    margin-top: 3%;
+    border-radius: 10px;
+    height: 70%;
+    border: none;
+}
+#sideimgsss2{
+    width: 30%;
+}
+
+.starter{
+    margin-top: 5%;
+    /* background-color: blue; */
+
+}
+#startimager{
+    margin-top: 1%;
+    width: 15%;
+    /* height: 50%; */
+}
+
+
+#startimager:hover{
+    width: 10%;
+
+}
+.numplayer{
+    font-family: 'Emilys Candy', cursive;
+    font-size: 35px;
+    font-weight: bolder;
+    letter-spacing: 4px;
+    color:rgb(86, 30, 27);
+   
+}
+.statermain{
+    background-color: rgba(83, 83, 83, 0.308);
+    border-radius: 10%;
+    height: 30%;
+
+}
+.hidden{
+    display: none;
+    
+}
